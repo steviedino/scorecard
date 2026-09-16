@@ -1,4 +1,4 @@
-const CACHE = 'scorecard-v6';
+const CACHE = 'scorecard-v7';
 const TILES = 'scorecard-tiles';
 const MAX_TILES = 1500;
 const CORE = ['./', 'index.html', 'app.js', 'manifest.json', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
